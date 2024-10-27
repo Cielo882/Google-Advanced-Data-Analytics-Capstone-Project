@@ -3,20 +3,6 @@
 
 This project provides an in-depth analysis of employee turnover data from a fictional company, **Salifort Motors**, which specializes in alternative energy vehicles. Using machine learning models, we predict employee retention and identify the main factors influencing turnover, with the goal of providing actionable insights for HR to improve employee satisfaction and retention.
 
-## Table of Contents
-
-- [Project Overview](#project-overview)
-- [Dataset](#dataset)
-- [Project Structure](#project-structure)
-- [Installation and Setup](#installation-and-setup)
-- [Usage](#usage)
-- [Model Evaluation](#model-evaluation)
-- [Insights and Recommendations](#insights-and-recommendations)
-- [Contributing](#contributing)
-- [License](#license)
-
----
-
 ## Project Overview
 
 Salifort Motors has tasked us with analyzing employee data to predict which employees are likely to leave the company and identify contributing factors. This project utilizes data analytics and machine learning techniques to assist HR in formulating data-driven retention strategies.
